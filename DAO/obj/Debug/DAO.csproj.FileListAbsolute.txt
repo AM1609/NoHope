@@ -1,0 +1,11 @@
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\DAO\bin\Debug\DAO.exe.config
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\DAO\bin\Debug\DAO.exe
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\DAO\bin\Debug\DAO.pdb
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\DAO\bin\Debug\DTO.exe
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\DAO\bin\Debug\DTO.pdb
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\DAO\bin\Debug\DTO.exe.config
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\DAO\obj\Debug\DAO.exe
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\DAO\obj\Debug\DAO.pdb

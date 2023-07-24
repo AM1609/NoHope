@@ -1,0 +1,47 @@
+C:\Users\Doanh\source\repos\QuanlyCoffee\QuanlyCoffee\bin\Debug\QuanlyCoffee.exe.config
+C:\Users\Doanh\source\repos\QuanlyCoffee\QuanlyCoffee\bin\Debug\QuanlyCoffee.exe
+C:\Users\Doanh\source\repos\QuanlyCoffee\QuanlyCoffee\bin\Debug\QuanlyCoffee.pdb
+C:\Users\Doanh\source\repos\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.csprojAssemblyReference.cache
+C:\Users\Doanh\source\repos\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.frmLogin.resources
+C:\Users\Doanh\source\repos\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.frmMain.resources
+C:\Users\Doanh\source\repos\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.frmNhanvien.resources
+C:\Users\Doanh\source\repos\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.frmOrder.resources
+C:\Users\Doanh\source\repos\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.Properties.Resources.resources
+C:\Users\Doanh\source\repos\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.frmQLBan.resources
+C:\Users\Doanh\source\repos\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.frmQLca.resources
+C:\Users\Doanh\source\repos\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.frmQLKho.resources
+C:\Users\Doanh\source\repos\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.frmSanpham.resources
+C:\Users\Doanh\source\repos\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.frmThanhtoan.resources
+C:\Users\Doanh\source\repos\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.frmThongke.resources
+C:\Users\Doanh\source\repos\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.frmThuchi.resources
+C:\Users\Doanh\source\repos\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.csproj.GenerateResource.cache
+C:\Users\Doanh\source\repos\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.csproj.CoreCompileInputs.cache
+C:\Users\Doanh\source\repos\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.exe
+C:\Users\Doanh\source\repos\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.pdb
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\QuanlyCoffee\bin\Debug\QuanlyCoffee.exe.config
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\QuanlyCoffee\bin\Debug\QuanlyCoffee.exe
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\QuanlyCoffee\bin\Debug\QuanlyCoffee.pdb
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\QuanlyCoffee\bin\Debug\DAO.exe
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\QuanlyCoffee\bin\Debug\DTO.exe
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\QuanlyCoffee\bin\Debug\DAO.pdb
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\QuanlyCoffee\bin\Debug\DAO.exe.config
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\QuanlyCoffee\bin\Debug\DTO.pdb
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\QuanlyCoffee\bin\Debug\DTO.exe.config
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.csprojAssemblyReference.cache
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.frmLogin.resources
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.frmMain.resources
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.frmNhanvien.resources
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.frmOrder.resources
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.Properties.Resources.resources
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.frmQLBan.resources
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.frmQLca.resources
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.frmQLKho.resources
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.frmSanpham.resources
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.frmThanhtoan.resources
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.frmThongke.resources
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.frmThuchi.resources
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.csproj.GenerateResource.cache
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.csproj.CoreCompileInputs.cache
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.csproj.CopyComplete
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.exe
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.pdb

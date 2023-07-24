@@ -1,0 +1,7 @@
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\DTO\bin\Debug\DTO.exe.config
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\DTO\bin\Debug\DTO.exe
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\DTO\bin\Debug\DTO.pdb
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\DTO\obj\Debug\DTO.exe
+C:\Users\Doanh\Documents\Đồ án\QuanlyduanCNTT\QuanlyCoffee\DTO\obj\Debug\DTO.pdb
